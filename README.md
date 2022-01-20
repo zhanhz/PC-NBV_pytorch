@@ -32,7 +32,7 @@ This is re-implementation of PC-NBV in pytorch. Official TensorFlow implementati
    ```
 
 ### Result
-Class | tensorflow | pytorch
+Class | pytorch | tensorflow
 ------|------------|-----
 Airplane | 0.798 | 0.799
 Cabinet | 0.609 | 0.612
