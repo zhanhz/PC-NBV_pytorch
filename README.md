@@ -12,7 +12,7 @@ This is re-implementation of PC-NBV in pytorch. Official TensorFlow implementati
 ### Installation
 1. Clone the repository:
    ```shell
-   git clone xxxx
+   git clone https://github.com/zhanhz/PC-NBV_pytorch.git
    ```
 2. Data Preparation
    Please follow the official repo [pcnbv_tf](https://github.com/Smile2020/PC-NBV) to generate NBV data.
