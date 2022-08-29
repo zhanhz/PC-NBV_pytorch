@@ -1,0 +1,11 @@
+function [ An ] = normr( A )
+%NORMR Normalize rows of matrix (without neural network toolbox)
+
+n = size(A, 1);
+
+for i=1:n
+    vec = A(i, :);
+end;
+
+end
+
